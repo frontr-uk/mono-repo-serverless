@@ -1,0 +1,6 @@
+dapp:
+  component: '@sls-next/serverless-component@1.20.0-alpha.23'
+  inputs:
+    build:
+      cmd: "../../node_modules/.bin/next"
+      cleanupDotNext: false
